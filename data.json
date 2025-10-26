@@ -1,34 +1,18 @@
 {
   "name": "Fatima Abubakar Mala",
-  "title": "Public Health Tutor",
-  "photo": "https://images.unsplash.com/photo-1607746882042-944635dfe10e?crop=faces&fit=crop&w=400&h=400",
-  "location": "Borno State, Nigeria",
-  "education": {
-    "institution": "College of Nursing and Midwifery, Maiduguri",
-    "degree": "Higher National Diploma in Public Health Nursing",
-    "graduationYear": 2025
+  "role": "Community Health Educator",
+  "photo": "https://i.postimg.cc/J4D9Fsf5/IMG-20251026-WA0015.jpg",
+  "button_url": "https://mama-fatima.vercel.app",
+  "theme": {
+    "primary": "#FF8C00",
+    "secondary": "#FFF5E6",
+    "accent": "#D97706",
+    "gradient": "linear-gradient(135deg, #FFB347, #FFCC33)"
   },
-  "bio": "Fatima Abubakar Mala is a dedicated Public Health tutor passionate about preventive medicine, maternal and child health, and promoting hygiene education in underserved communities. She believes that strong community awareness is the foundation of a healthier Nigeria.",
-  "skills": [
-    "Public Health Nursing",
-    "Health Promotion",
-    "Maternal & Child Health",
-    "Epidemiology Basics",
-    "Community Mobilization"
-  ],
-  "testimonials": [
-    {
-      "name": "Hauwa Ali",
-      "comment": "Madam Fatima’s teaching style is warm and interactive — she makes every learner feel confident."
-    },
-    {
-      "name": "Yusuf Ibrahim",
-      "comment": "Her examples are practical and relatable; she connects classroom knowledge to real field experiences."
-    }
-  ],
+  "bio": "Fatima Abubakar Mala is a dedicated CHEW and health storyteller who connects deeply with mothers and youth across Borno State. Her voice and empathy bring health topics to life in relatable, culturally grounded ways.",
   "socials": {
-    "linkedin": "https://linkedin.com/in/fatima-abubakar-mala",
-    "email": "mailto:fatima.mala@consultancyfirm.ng",
-    "whatsapp": "https://wa.me/2348123456789"
+    "facebook": "https://facebook.com/",
+    "instagram": "https://instagram.com/",
+    "x": "https://x.com/"
   }
 }
