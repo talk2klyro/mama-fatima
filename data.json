@@ -1,15 +1,29 @@
 {
   "name": "Fatima Abubakar Mala",
-  "role": "Community Health Educator",
+  "role": "Community Health Educator | Women & Youth Advocate",
   "photo": "https://i.postimg.cc/J4D9Fsf5/IMG-20251026-WA0015.jpg",
   "button_url": "https://mama-fatima.vercel.app",
   "theme": {
     "primary": "#FF8C00",
-    "secondary": "#FFF5E6",
+    "secondary": "#FFF6E5",
     "accent": "#D97706",
     "gradient": "linear-gradient(135deg, #FFB347, #FFCC33)"
   },
-  "bio": "Fatima Abubakar Mala is a dedicated CHEW and health storyteller who connects deeply with mothers and youth across Borno State. Her voice and empathy bring health topics to life in relatable, culturally grounded ways.",
+  "bio": "Fatima Abubakar Mala is a passionate Community Health Educator and youth mentor based in Borno State, Nigeria. A proud graduate of 2025, she focuses on maternal and child health, sanitation, and preventive education for women in rural communities. Through workshops and storytelling, Fatima translates complex health topics into simple, relatable lessons that help families make safer everyday choices. She has led awareness campaigns on malaria prevention, hygiene promotion, and nutrition, empowering hundreds of mothers and students. Her vision is to create a healthier, better-informed generation through empathy, education, and action.",
+  "cards": [
+    {
+      "title": "Areas of Expertise",
+      "content": "Maternal & Child Health, Community Mobilization, Hygiene & Nutrition Education, Health Communication, Youth Leadership"
+    },
+    {
+      "title": "Achievements",
+      "content": "Led 5+ health outreach programs reaching over 800 women and adolescents; featured in Talk2Health podcast for her impactful field storytelling."
+    },
+    {
+      "title": "Focus & Vision",
+      "content": "Fatima believes that lasting health change begins with understanding. She aims to bridge the gap between health institutions and community realities through compassionate education."
+    }
+  ],
   "socials": {
     "facebook": "https://facebook.com/",
     "instagram": "https://instagram.com/",
